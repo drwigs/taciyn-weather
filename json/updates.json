@@ -1,0 +1,13 @@
+{
+    "src": {
+        "update": {
+            "version": 1.0,
+            "url": ""
+        },
+
+        "weatherdata": {
+            "version": 1.0,
+            "url": ""
+        }
+    }
+}
