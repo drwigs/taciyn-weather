@@ -2,12 +2,20 @@
     "src": {
         "update": {
             "version": 1.0,
-            "url": ""
+            "url": "https://github.com/drwigs/taciyn-weather/raw/main/update.py"
         },
 
         "weatherdata": {
             "version": 1.0,
-            "url": ""
+            "url": "https://github.com/drwigs/taciyn-weather/raw/main/weatherdata.py"
+        },
+        "visuals": {
+            "version": 1.0,
+            "url": "https://github.com/drwigs/taciyn-weather/raw/main/visuals.py"
+        },
+        "menu": {
+            "version": 1.0,
+            "url": "https://github.com/drwigs/taciyn-weather/raw/main/menu.py",
         }
     }
 }
